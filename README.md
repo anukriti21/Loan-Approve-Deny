@@ -1,5 +1,5 @@
 # Loan-Approve-Deny
-**DATASET **
+**DATASET**
 The dataset is from the U.S. Small Business Administration (SBA) which includes historical data from 1987 through 2014 (899,164 observations)
 
 **USE CASE**
